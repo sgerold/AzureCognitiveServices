@@ -5,3 +5,5 @@
 /speech2text/bin/Debug/netcoreapp3.1
 /speech2text/.vs/AzureCognitiveServices/v16
 /speech2text/obj
+/speaking-clock/bin/Debug/netcoreapp3.1
+/speaking-clock/obj

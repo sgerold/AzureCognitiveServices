@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speech2text", "speech2text.csproj", "{B9DE6981-76E6-4F1C-B8E7-A9DA9993E9BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "speech2text", "speech2text.csproj", "{B9DE6981-76E6-4F1C-B8E7-A9DA9993E9BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speaking-clock", "..\speaking-clock\speaking-clock.csproj", "{F2CDAB43-AC82-4AE6-9AC0-35BD48C5617C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B9DE6981-76E6-4F1C-B8E7-A9DA9993E9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9DE6981-76E6-4F1C-B8E7-A9DA9993E9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9DE6981-76E6-4F1C-B8E7-A9DA9993E9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CDAB43-AC82-4AE6-9AC0-35BD48C5617C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CDAB43-AC82-4AE6-9AC0-35BD48C5617C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CDAB43-AC82-4AE6-9AC0-35BD48C5617C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CDAB43-AC82-4AE6-9AC0-35BD48C5617C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
